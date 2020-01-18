@@ -60,6 +60,8 @@ textarea{
 
 img {
   padding-top:5px;
+  width 200px;
+  height:300px;
 }
 
 .horoscopetitle{
@@ -85,6 +87,7 @@ img {
   width:500px;
 
 }
+
 
 @keyframes App-logo-spin {
   from {
